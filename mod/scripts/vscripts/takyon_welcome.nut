@@ -27,7 +27,8 @@ void function WelcomeInit(){
     welcomeMsg =    "Welcome %playername%!\n" + // leave %playername% so the msg is personalized
                     "You're now playing on " + serverName + "\n"+
                     "Join us at " + discordLink + "\n" + // add your discord or website
-                    "Type !help in console or chat. -enablechathooks must be active for chat" // add -enablechathooks to \Titanfall2\ns_startup_args_dedi.txt
+                    "Check out r/kraber9k for a tutorial\n" + // add your discord or website
+                    "Type !help in chat"
 }
 
 /*
